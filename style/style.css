@@ -64,7 +64,7 @@ main{
 
     width: 960px;
     margin:30px auto;
-    background-image: url("hr-img.png");
+    background-image: url("../img/hr-img.png");
   background-repeat: repeat-x;
 
 }
@@ -108,11 +108,11 @@ main{
 
 #three {
   height: 150px;
-    background-image: url("list-bg.png");
+    background-image: url("../img/list-bg.png");
    
 }
 #four{
-    background-image: url("hr-img.png");
+    background-image: url("../img/hr-img.png");
     background-repeat: repeat-x;
     width: 960px;
 }
